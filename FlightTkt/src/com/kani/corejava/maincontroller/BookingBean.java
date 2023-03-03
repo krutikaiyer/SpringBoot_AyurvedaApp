@@ -1,6 +1,6 @@
 package com.kani.corejava.maincontroller;
 
-import java.io.Serializable;
+import java.io.Serializable; //git changes
 
 public class BookingBean implements Serializable{
 	private String travellerName;
